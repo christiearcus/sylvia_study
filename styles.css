@@ -1,5 +1,9 @@
 body {
-  background-color: pink;
+  background-color: lime;
   font-family: arial;
-  color: grey
+  color: grey;
+}
+
+h1 {
+  color: lime;
 }
